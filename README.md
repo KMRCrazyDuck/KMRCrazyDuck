@@ -5,12 +5,17 @@
 
 School projects that I have done
 
-✨ Enterprise Solution Development (TravelPal Flight Management System)
-- https://github.com/hoonqh/ESD/tree/kong-setup
-
 ✨ Web Application Development 2 (RevFlair Singapore Hackathons)
 - https://github.com/Hoo-dkwozD/WAD-2-Project
 
+✨ Enterprise Solution Development (TravelPal Flight Management System)
+- https://github.com/hoonqh/ESD/tree/kong-setup
+
+✨ Software Project Management (Learning Journey Planning System)
+- https://github.com/genevievetai2020/is212-project-group-2
+
+✨ Digital Banking Enterprise Architecture (乐 Trust Capital Stock Collateral Investor-Borrower System)
+- https://github.com/jovinyap/is444
 
 <!---
 KMRCrazyDuck/KMRCrazyDuck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
