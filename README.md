@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KMRCrazyDuck, I'm a student currently studying at the Singapore Management University pursuing a degree in Information Systems with track in Financial Technology
 - 👀 I’m interested in the field of Financial Technology to improve the overall ecosystem
-- 🌱 I’m currently learning different programming languages such as Solidity for implementing smart contracts on various blockchain platforms
 - 📫 How to reach me : https://sg.linkedin.com/in/kwek-ming-rong-9230a360
 
 School projects that I have done
