@@ -18,11 +18,11 @@ School projects that I have done
 
 ✨ Geospatial Analytics & Application (Spatial and Network Constrained Point Pattern Analysis in City of Melbourne)
 
-Spatial Bros Webpage - https://spatialbros.netlify.app/
+- Spatial Bros Webpage - https://spatialbros.netlify.app/
 
-Spatial Bros R Shiny Application - https://renjieteo.shinyapps.io/SpatialBros/
+- Spatial Bros R Shiny Application - https://renjieteo.shinyapps.io/SpatialBros/
 
-Github Repository - https://github.com/renjie-teo/spatial-bros
+- Github Repository - https://github.com/renjie-teo/spatial-bros
 
 <!---
 KMRCrazyDuck/KMRCrazyDuck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
