@@ -18,7 +18,9 @@ School projects that I have done
 
 ✨ Geospatial Analytics & Application (Spatial and Network Constrained Point Pattern Analysis in City of Melbourne)
 Spatial Bros Webpage - https://spatialbros.netlify.app/
+
 Spatial Bros R Shiny Application - https://renjieteo.shinyapps.io/SpatialBros/
+
 Github Repository - https://github.com/renjie-teo/spatial-bros
 
 <!---
