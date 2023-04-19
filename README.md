@@ -16,6 +16,9 @@ School projects that I have done
 ✨ Digital Banking Enterprise Architecture (乐 Trust Capital Stock Collateral Investor-Borrower System)
 - https://github.com/jovinyap/is444
 
+✨ Geospatial Analytics & Application (Spatial and Network Constrained Point Pattern Analysis in City of Melbourne)
+- https://github.com/renjie-teo/spatial-bros
+
 <!---
 KMRCrazyDuck/KMRCrazyDuck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
