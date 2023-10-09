@@ -24,6 +24,8 @@ School projects that I have done
 
 - Github Repository - https://github.com/renjie-teo/spatial-bros
 
+✨ AI & Humanity 
+- Chatbot for volunteers to understand Migrant Workers in Singapore - https://github.com/KMRCrazyDuck/COR2221-AI---Humanity-Chatbot-Project
 <!---
 KMRCrazyDuck/KMRCrazyDuck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
